@@ -1,9 +1,8 @@
 title: Thalatta IO
-email: alkoclick@gmail.com
-description: Test desc
-title_image: "https://avatars1.githubusercontent.com/u/9469549?s=460&v=4"
-url: https://alkoclick.github.io
-google_analytics: "UA-135981592-1"
+email: redacted@redacted.com
+description: In an world full of whales, containers and captains, we are the sea
+repository: thalatta-io/thalatta-site
+google_analytics: "UA-143041584-1"
 
 # Build settings
 markdown: kramdown
@@ -15,6 +14,3 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
   - github-pages
-
-exclude:
-  - README.md
