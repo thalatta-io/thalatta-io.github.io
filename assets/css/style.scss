@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.hljs {
+  word-break: keep-all;
+}
+
+.hljs-string, .hljs-value {
+  color: #df5320;
+}
+
+.single .article {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.single .article .content blockquote p {
+  font-size: 21px;
+  font-weight: 400;
+  padding: 5px;
+}
+
+.single .article .content div.highlighter-rouge pre {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.single .article .content figure.highlight pre, .single .article .content div.highlighter-rouge pre {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}

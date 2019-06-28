@@ -1,0 +1,20 @@
+title: Thalatta IO
+email: alkoclick@gmail.com
+description: Test desc
+title_image: "https://avatars1.githubusercontent.com/u/9469549?s=460&v=4"
+url: https://alkoclick.github.io
+google_analytics: "UA-135981592-1"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-toc
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - github-pages
+
+exclude:
+  - README.md
