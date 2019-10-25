@@ -15,7 +15,8 @@ Thalatta's members focus on delivering enterprise grade applications, that you c
 ### What do we believe in?
 
 > "Freedom requires virtue and boldness"
-> -Andreas Kalvos
+> 
+> Andreas Kalvos
 
 #### Freedom
 
