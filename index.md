@@ -18,12 +18,15 @@ Thalatta's members focus on delivering enterprise grade applications, that you c
 - Andreas Kalvos
 
 1) Freedom
+
 We value independence and diversity. Freedom is our power ; and we acknowledge the responsibility it carries
 
 2) Virtue
+
 We choose to do good. Actively make a positive impact in the world, beyond our walls. Virtue is our strategy
 
 3) Boldness
+
 To take calculated leaps of faith. To explore and innovate. Boldness is our fuel
 
 ### Contact us:
